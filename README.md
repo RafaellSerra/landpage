@@ -1,1 +1,1 @@
-# landpage
+# curriculum
